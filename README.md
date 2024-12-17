@@ -1,4 +1,4 @@
-Constituents of a Company: A Breakdown
+***Constituents of a Company: A Breakdown***
 
 This project provides a comprehensive exploratory data analysis (EDA) on the various stakeholders within a company, both internal and external. Conducted in Python using Google Colab, this analysis examines the roles and impacts of management, employees, shareholders, customers, suppliers, creditors, government entities, and the local community in a corporate structure.
 
